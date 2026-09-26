@@ -1,6 +1,10 @@
 # Diko - French-Japanese Bilingual Dictionary with a Motif Interface
 
-This project aims to implement a French-Japanese bilingual dictionary in C/C++, with a graphical interface built with Motif.
+This project is a French-Japanese bilingual dictionary written in C/C++, with a graphical interface built with Motif.
+
+It was carried out by **Dominique ERIN** as part of the Algorithms and Data Structures course at **Université Paris 8**, and was graded by Professor **Larbi BOUBCHIR**.
+
+The project is based on a course in algorithms and data structures written by Professor Emeritus **Gilles Bernard** from Université Paris 8. Some parts of the project come from an initial Mini-Lisp / Motif codebase written by Gilles Bernard. The original comments and license notices were preserved in the source files.
 
 When the program starts, the user can enter a French or Japanese word together with its grammatical category. The result is displayed in a graphical history area.
 
@@ -397,6 +401,7 @@ Project carried out by:
 ```text
 Dominique ERIN
 ```
+
 
 Graphical interface built with:
 

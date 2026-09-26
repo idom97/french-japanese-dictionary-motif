@@ -1,6 +1,10 @@
 # Diko - Dictionnaire bilingue français-japonais avec une interface Motif
 
-Ce projet vise à implémenter un dictionnaire bilingue français-japonais en C/C++, avec une interface graphique réalisée avec Motif.
+Ce projet consiste en un dictionnaire bilingue français-japonais développé en C/C++, doté d'une interface graphique réalisée avec Motif.
+
+Il a été réalisé par **Dominique ERIN** dans le cadre du cours d'algorithmique et de structures de données à l'**Université Paris 8**, et a été évalué par le professeur **Larbi BOUBCHIR**.
+
+Le projet s'appuie sur un cours d'algorithmique et de structures de données élaboré par le professeur émérite **Gilles Bernard** (Université Paris 8). Certaines parties du projet proviennent d'une base de code initiale (Mini-Lisp / Motif) écrite par Gilles Bernard. Les commentaires et mentions de licence d'origine ont été conservés dans les fichiers sources.
 
 Lorsque le programme démarre, l’utilisateur peut saisir un mot français ou japonais avec sa catégorie grammaticale. Le résultat est affiché dans une zone graphique d’historique.
 
